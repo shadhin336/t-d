@@ -1,0 +1,6 @@
+{
+  "name": "E-Wallet",
+  "description": "Digital wallet and deposit platform with bKash, Nagad & Rocket integration, user dashboard, and admin approval management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
